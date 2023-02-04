@@ -1,5 +1,7 @@
 # Normalization_Monosensitive: A tool for the normalization of mono-sensitive active material behavior
-The provided software tool is a Matlab application (.mlapp). It performs the normalization procedure according to [Ehrenhofer2018a] of a mono-sensitive active material behavior. The Graphical User Interface consists of 3 sections:
+The provided software tool is a Matlab application (.mlapp). It performs the normalization procedure according to [Ehrenhofer2018a] of a mono-sensitive active material behavior. An example material according to [Ehrenhofer2016] is provided. 
+
+The Graphical User Interface consists of 3 sections:
 
 1. The input of the behavior. Here, it can be chosen, which kind of material behavior is used.
 (i) Analytical dummy functions like the error function (erf) and the tangens hyperbolicus function (tanh) with the parameters a (stretch), b (slope), c (reference point) and d (ordinate) can be defined.
