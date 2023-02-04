@@ -34,5 +34,5 @@ Normalization of Hydrogel Swelling Behavior for Sensoric and Actuatoric Applicat
 # Final notes:
 The software is referenced in Zenodo.
 I would be happy about your feedback and comments via Github.
-I thank for the DFG for the Research Training Group 'Hydrogel-based microsystems', the Free State of Saxony & TU Dresden for the funding of the Dresden Center for Intelligent Materials, and my colleagues at the Institute of Solid Mechanics at TU Dresden for their support.
+I thank the DFG for the funding of the Research Training Group DFG-GRK1865 'Hydrogel-based microsystems', the Free State of Saxony & TU Dresden for the funding of the Dresden Center for Intelligent Materials, and my colleagues at the Institute of Solid Mechanics at TU Dresden for their support.
 
