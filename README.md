@@ -19,7 +19,7 @@ The output file is a list of stimulus values and corresponding expansion coeffic
 The tool is provided to engineers and scientists working in the field of active materials. Basic knowledge of handling Matlab is required. The model has to be chosen according to the Finite Element software. For example, using Abaqus with thermal expansion (*EXPANSION) requires the linear model. If *NLGEOM is to be switched on, the nonlinear model is required.
 
 # Getting started:
-The Matlab App can be opened directly in Matlab. The source code and the interface can be viewed and changed in the Matlab App Designer.
+The Matlab App can be opened directly in Matlab. The source code and the interface can be viewed and changed in the Matlab App Designer. The input file from which the active behavior should be extracted should be structured in the same way as the example provided: A list with the headers "Stimulus-Value | Active-Value", where the Stimulus-Value can be any physical value, such as temperature; and Active-Value is diameter/surface-area/volume data for the free active deformation (e.g., swelling) of the sample. 
 
 # Sources:
 [Ehrenhofer2018a] Ehrenhofer, A.; Elstner, M. & Wallmersperger, T.
