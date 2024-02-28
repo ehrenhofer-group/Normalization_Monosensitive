@@ -24,15 +24,21 @@ The Matlab App can be opened directly in Matlab. The source code and the interfa
 # Sources:
 [Ehrenhofer2018a] Ehrenhofer, A.; Elstner, M. & Wallmersperger, T.
 Normalization of Hydrogel Swelling Behavior for Sensoric and Actuatoric Applications, Sensors and Actuators B: Chemical, 2018, 255(2), 1343 - 1353
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.snb.2017.08.120-blue)](https://doi.org/10.1016/j.snb.2017.08.120)
 
 [Ehrenhofer2016] Ehrenhofer, A.; Bingel, G.; Paschew, G.; Tietze, M.; Schröder, R.; Richter, A. & Wallmersperger, T. Permeation Control in Hydrogel-Layered Patterned PET Membranes with Defined Switchable Pore Geometry - Experiments and Numerical Simulation Sensors and Actuators B: Chemical, 2016, 232, 499-505
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.snb.2016.03.152-blue)](https://doi.org/10.1016/j.snb.2016.03.152)
 
 [Ehrenhofer2017] Ehrenhofer, A. & Wallmersperger, T. Hydrogels for engineering: Normalization of swelling due to arbitrary stimulus, Proc. SPIE 10163, Electroactive Polymer Actuators and Devices XIX, 2017, 10163, 1016321-15
+[![DOI](https://img.shields.io/badge/DOI-10.1117/12.2259872-blue)](https://doi.org/10.1117/12.2259872)
 
 [Ehrenhofer2018b] Ehrenhofer, A. & Wallmersperger, T. A normalization concept for smart material actuation by the example of hydrogels, Proc. Appl. Math. Mech., 2018: 1-2 e201800176.
+[![DOI](https://img.shields.io/badge/DOI-10.1002/pamm.201800176-blue)](https://doi.org/10.1002/pamm.201800176)
 
 # Final notes:
-The software is referenced in Zenodo.
+The software is referenced in Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7885801.svg)](https://doi.org/10.5281/zenodo.7885801)
+
+
 I would be happy about your feedback and comments via Github.
 I thank the DFG for the funding of the Research Training Group DFG-GRK1865 'Hydrogel-based microsystems', the Free State of Saxony & TU Dresden for the funding of the Dresden Center for Intelligent Materials, and my colleagues at the Institute of Solid Mechanics at TU Dresden for their support.
 
